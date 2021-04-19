@@ -1,0 +1,18 @@
+<application>
+  <component name="KubernetesSettings">
+    <specSources>
+      <SpecSource>
+        <option name="pathOrUrl" value="$USER_HOME$/ops/services.nslhub.com/clusters/services-ap-south-1/flux-system/gotk-components.yaml" />
+      </SpecSource>
+      <SpecSource>
+        <option name="pathOrUrl" value="https://raw.githubusercontent.com/kyverno/kyverno/main/charts/kyverno/crds/crds.yaml" />
+      </SpecSource>
+      <SpecSource>
+        <option name="pathOrUrl" value="https://raw.githubusercontent.com/fluxcd/flagger/main/kustomize/base/flagger/crd.yaml" />
+      </SpecSource>
+      <SpecSource>
+        <option name="pathOrUrl" value="https://raw.githubusercontent.com/argoproj/argo-rollouts/master/manifests/crds/rollout-crd.yaml" />
+      </SpecSource>
+    </specSources>
+  </component>
+</application>
