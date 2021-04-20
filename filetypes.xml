@@ -3,13 +3,14 @@
     <ignoreFiles list="*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;cdk.json;cdk.out;pnpm-store;temp;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping pattern="flagger-yaml" type="AUTO_DETECTED" />
-      <mapping pattern="LICENSE" type="AUTO_DETECTED" />
       <mapping pattern="registries" type="AUTO_DETECTED" />
+      <mapping pattern="LICENSE" type="AUTO_DETECTED" />
       <mapping pattern=".prettierrc" type="JSON" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern=".sourceignore" type="PLAIN_TEXT" />
       <mapping ext="tmpl" type="PLAIN_TEXT" />
       <mapping ext="vpc" type="PLAIN_TEXT" />
+      <mapping ext="qrc" type="XML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="psd" approved="true" type="Image" />
