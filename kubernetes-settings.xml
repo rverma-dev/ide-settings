@@ -13,6 +13,18 @@
       <SpecSource>
         <option name="pathOrUrl" value="https://raw.githubusercontent.com/argoproj/argo-rollouts/master/manifests/crds/rollout-crd.yaml" />
       </SpecSource>
+      <SpecSource>
+        <option name="pathOrUrl" value="https://raw.githubusercontent.com/argoproj/argo-rollouts/master/manifests/crds/analysis-template-crd.yaml" />
+      </SpecSource>
+      <SpecSource>
+        <option name="pathOrUrl" value="https://raw.githubusercontent.com/argoproj/argo-rollouts/master/manifests/crds/cluster-analysis-template-crd.yaml" />
+      </SpecSource>
+      <SpecSource>
+        <option name="pathOrUrl" value="https://raw.githubusercontent.com/argoproj/argo-rollouts/master/manifests/crds/experiment-crd.yaml" />
+      </SpecSource>
+      <SpecSource>
+        <option name="pathOrUrl" value="https://raw.githubusercontent.com/argoproj/argo-rollouts/master/manifests/crds/analysis-run-crd.yaml" />
+      </SpecSource>
     </specSources>
   </component>
 </application>
