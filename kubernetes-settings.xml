@@ -2,7 +2,7 @@
   <component name="KubernetesSettings">
     <specSources>
       <SpecSource>
-        <option name="pathOrUrl" value="$USER_HOME$/ops/services.nslhub.com/clusters/services-ap-south-1/flux-system/gotk-components.yaml" />
+        <option name="pathOrUrl" value="https://raw.githubusercontent.com/nslhb/services.nslhub.com/main/clusters/dev/ap-south-1/flux-system/gotk-components.yaml?token=ATCTF5ST6IZMJDQFTM45ZJDAQ2QYS" />
       </SpecSource>
       <SpecSource>
         <option name="pathOrUrl" value="https://raw.githubusercontent.com/kyverno/kyverno/main/charts/kyverno/crds/crds.yaml" />
