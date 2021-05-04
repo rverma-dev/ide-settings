@@ -28,9 +28,6 @@
       <SpecSource>
         <option name="pathOrUrl" value="https://raw.githubusercontent.com/prometheus-operator/prometheus-operator/master/bundle.yaml" />
       </SpecSource>
-      <SpecSource>
-        <option name="pathOrUrl" value="/tmp/eks.json" />
-      </SpecSource>
     </specSources>
   </component>
 </application>
