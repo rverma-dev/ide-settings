@@ -6,6 +6,8 @@
       <mapping pattern="flagger-yaml" type="AUTO_DETECTED" />
       <mapping pattern="LICENSE" type="AUTO_DETECTED" />
       <mapping pattern="external-dns" type="AUTO_DETECTED" />
+      <mapping pattern="secrets.yaml" type="AUTO_DETECTED" />
+      <mapping pattern="secrets" type="AUTO_DETECTED" />
       <mapping pattern="registries" type="AUTO_DETECTED" />
       <mapping pattern=".prettierrc" type="JSON" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
