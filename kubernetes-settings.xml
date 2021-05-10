@@ -28,6 +28,18 @@
       <SpecSource>
         <option name="pathOrUrl" value="https://raw.githubusercontent.com/prometheus-operator/prometheus-operator/master/bundle.yaml" />
       </SpecSource>
+      <SpecSource>
+        <option name="pathOrUrl" value="https://raw.githubusercontent.com/actions-runner-controller/actions-runner-controller/master/config/crd/bases/actions.summerwind.dev_horizontalrunnerautoscalers.yaml" />
+      </SpecSource>
+      <SpecSource>
+        <option name="pathOrUrl" value="https://raw.githubusercontent.com/actions-runner-controller/actions-runner-controller/master/config/crd/bases/actions.summerwind.dev_runnerdeployments.yaml" />
+      </SpecSource>
+      <SpecSource>
+        <option name="pathOrUrl" value="https://raw.githubusercontent.com/actions-runner-controller/actions-runner-controller/master/config/crd/bases/actions.summerwind.dev_runnerreplicasets.yaml" />
+      </SpecSource>
+      <SpecSource>
+        <option name="pathOrUrl" value="https://raw.githubusercontent.com/actions-runner-controller/actions-runner-controller/master/config/crd/bases/actions.summerwind.dev_runners.yaml" />
+      </SpecSource>
     </specSources>
   </component>
 </application>
