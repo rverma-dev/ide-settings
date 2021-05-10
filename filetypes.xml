@@ -10,6 +10,7 @@
       <mapping pattern="secrets" type="AUTO_DETECTED" />
       <mapping pattern="registries" type="AUTO_DETECTED" />
       <mapping pattern=".prettierrc" type="JSON" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern=".sourceignore" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
