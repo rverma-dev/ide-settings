@@ -2,10 +2,12 @@
   <component name="FileTypeManager" version="18">
     <ignoreFiles list="*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;cdk.json;cdk.out;pnpm-store;temp;vssver.scc;vssver2.scc;" />
     <extensionMap>
+      <mapping pattern="git" type="AUTO_DETECTED" />
       <mapping pattern="CODEOWNERS" type="AUTO_DETECTED" />
       <mapping pattern="flagger-yaml" type="AUTO_DETECTED" />
       <mapping pattern="LICENSE" type="AUTO_DETECTED" />
       <mapping pattern="external-dns" type="AUTO_DETECTED" />
+      <mapping pattern="version" type="AUTO_DETECTED" />
       <mapping pattern="secrets.yaml" type="AUTO_DETECTED" />
       <mapping pattern="secrets" type="AUTO_DETECTED" />
       <mapping pattern="registries" type="AUTO_DETECTED" />
