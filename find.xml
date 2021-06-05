@@ -11,5 +11,6 @@
     <mask>**.go</mask>
     <mask>**.md</mask>
     <mask>**.tf</mask>
+    <mask>!**/cluster</mask>
   </component>
 </application>
