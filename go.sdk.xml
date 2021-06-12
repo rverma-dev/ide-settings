@@ -2,6 +2,7 @@
   <component name="GoSdkList">
     <sdk-url>
       <set>
+        <option value="file:///opt/homebrew/Cellar/go/1.16.4/libexec" />
         <option value="file:///opt/homebrew/opt/go/libexec" />
       </set>
     </sdk-url>
