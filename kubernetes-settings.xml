@@ -43,6 +43,9 @@
       <SpecSource>
         <option name="pathOrUrl" value="https://raw.githubusercontent.com/hashicorp/terraform-k8s/master/config/crd/bases/app.terraform.io_workspaces.yaml" />
       </SpecSource>
+      <SpecSource>
+        <option name="pathOrUrl" value="https://raw.githubusercontent.com/rabbitmq/cluster-operator/main/config/crd/bases/rabbitmq.com_rabbitmqclusters.yaml" />
+      </SpecSource>
     </specSources>
   </component>
 </application>
