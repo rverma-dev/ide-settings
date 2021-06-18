@@ -8,6 +8,7 @@
       <mapping pattern="flagger-yaml" type="AUTO_DETECTED" />
       <mapping pattern="LICENSE" type="AUTO_DETECTED" />
       <mapping pattern="external-dns" type="AUTO_DETECTED" />
+      <mapping pattern="test.yaml" type="AUTO_DETECTED" />
       <mapping pattern="version" type="AUTO_DETECTED" />
       <mapping pattern="secrets.yaml" type="AUTO_DETECTED" />
       <mapping pattern="secrets" type="AUTO_DETECTED" />
