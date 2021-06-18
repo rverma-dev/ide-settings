@@ -46,6 +46,12 @@
       <SpecSource>
         <option name="pathOrUrl" value="https://raw.githubusercontent.com/rabbitmq/cluster-operator/main/config/crd/bases/rabbitmq.com_rabbitmqclusters.yaml" />
       </SpecSource>
+      <SpecSource>
+        <option name="pathOrUrl" value="$USER_HOME$/ops/gitops-devops/istio/operator.yaml" />
+      </SpecSource>
+      <SpecSource>
+        <option name="pathOrUrl" value="https://raw.githubusercontent.com/external-secrets/external-secrets/main/deploy/crds/external-secrets.io_externalsecrets.yaml" />
+      </SpecSource>
     </specSources>
   </component>
 </application>
