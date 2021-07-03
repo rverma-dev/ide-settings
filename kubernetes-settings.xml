@@ -41,7 +41,7 @@
         <option name="pathOrUrl" value="https://raw.githubusercontent.com/actions-runner-controller/actions-runner-controller/master/config/crd/bases/actions.summerwind.dev_runners.yaml" />
       </SpecSource>
       <SpecSource>
-        <option name="pathOrUrl" value="https://raw.githubusercontent.com/hashicorp/terraform-k8s/master/config/crd/bases/app.terraform.io_workspaces.yaml" />
+        <option name="pathOrUrl" value="https://raw.githubusercontent.com/nslhb/terraform-k8s/master/config/crd/bases/app.terraform.io_workspaces.yaml" />
       </SpecSource>
       <SpecSource>
         <option name="pathOrUrl" value="https://raw.githubusercontent.com/rabbitmq/cluster-operator/main/config/crd/bases/rabbitmq.com_rabbitmqclusters.yaml" />
